@@ -85,5 +85,4 @@ Create Meme: Customize a meme with your own text and share it with others.
 ### Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-License
-This project is open-source and available under the MIT License.
+
